@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Se renderizó el homePage 1`] = `
+<div>
+  Soy el home 2
+</div>
+`;
